@@ -27,10 +27,10 @@ $('#slideShow').sS(
 ***
 ###Parameters
 All the parameters that can be passed in to the sS function:
-- path: the path to the images folder. Must include the last slash (e.g ./images wrong ./images/ right).
-- images: an array of all the images part of the slideshow.
-- showTime: amount of time to show each slide for.
-- bgRepeat: sets background-repeat property of the div
+* path: the path to the images folder. Must include the last slash (e.g ./images wrong ./images/ right).
+* images: an array of all the images part of the slideshow.
+* showTime: amount of time to show each slide for.
+* bgRepeat: sets background-repeat property of the div
 ..* no-repeat
 ..* repeat-y
 ..* repeat-x
