@@ -1,9 +1,12 @@
 # slideShow
-simple JQuery plugin to build slideShows
 
-##Example
+JQuery plugin to build slideShows.
 
-###File.js
+###Description
+This simple plugin allows to easily set up a div with sliding background images.
+
+###Example
+####File.js
 ```
 $('#slideShow').sS(
 					{
@@ -17,8 +20,9 @@ $('#slideShow').sS(
 					}
 );
 ```
-###File.html
-
+####File.html
 ```
 <div id='slideShow'></div>
 ```
+
+
