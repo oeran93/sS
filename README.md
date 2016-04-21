@@ -1,4 +1,4 @@
-# slideShow
+# sS
 
 JQuery plugin to build slideShows.
 
