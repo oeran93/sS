@@ -31,9 +31,9 @@ All the parameters that can be passed in to the sS function:
 - images: an array of all the images part of the slideshow.
 - showTime: amount of time to show each slide for.
 - bgRepeat: sets background-repeat property of the div
-..*no-repeat
-..*repeat-y
-..*repeat-x
+--no-repeat
+--repeat-y
+--repeat-x
 
 
 
