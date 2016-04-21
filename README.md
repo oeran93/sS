@@ -5,6 +5,12 @@ JQuery plugin to build slideShows.
 ###Description
 This simple plugin allows to easily set up a div with sliding background images.
 ***
+###Installation
+####Dependencies
+jQuery
+####Instructions
+Download sS.js and import it where you need it. 
+***
 ###Example
 ####File.js
 ```
