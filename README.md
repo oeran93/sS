@@ -40,6 +40,8 @@ All the parameters that can be passed in to the sS function:
  * no-repeat
  * repeat-y
  * repeat-x
+* animation: animation between slides
+ * transition
 
 
 
